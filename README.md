@@ -1,8 +1,13 @@
 # 22-2c-cd-p2-grupo_isa-mari_p2
 22-2c-cd-p2-grupo_isa-mari_p2 created by GitHub Classroom
 
+
 Integrantes: Isabella Leão e Marina Lebl
+
+
 Objetivo: Um vendedor deve prever a qualidade numérica (de 0 a 10) de tipos de vinho branco, considerando algumas de suas características:
+
+
 1 - acidez fixa
 2 - acidez volátil
 3 - ácido cítrico
